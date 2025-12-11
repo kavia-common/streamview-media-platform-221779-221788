@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/streamview-media-platform-221779-221788/streaming_db/myapp.db
+# File path: /home/kavia/workspace/code-generation/streamview-media-platform-221779-221788/streaming_db/myapp.db
